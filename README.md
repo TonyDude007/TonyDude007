@@ -2,7 +2,7 @@
 
 <h2 align="center"> About Me </h2>
 
-<img align="left" src="Style/Gif/giphy.webp" alt="duck Animation" height="275px" width="50%" />
+<img align="left" border-radius: 30px; src="Style/Gif/giphy.webp" alt="duck Animation" height="275px" width="50%" />
 
 ```yaml
 education:
