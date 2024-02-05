@@ -2,7 +2,7 @@
 
 <h2 align="center"> About Me </h2>
 
-<img align="left" src="Style/Gif/giphy.webp" alt="duck Animation" height="307px" width="50%" />
+<img align="left" src="Style/Gif/giphy.webp" alt="duck Animation" height="256px" width="50%" />
 
 ```yaml
 education:
@@ -20,6 +20,8 @@ fields_of_interests:
     "Video Games"
   }
 ```
+
+<h3 align="center"> My Knowledge Library </h3>
 
 <p align="center">
     <!-- Programing languages -->
