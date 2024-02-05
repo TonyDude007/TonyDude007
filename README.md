@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![ProfilePic](PicProfile.png)
+![ProfilePic](Pic.png)
