@@ -5,13 +5,13 @@
 <img align="left" src="Style/Gif/giphy.webp" alt="duck Animation" height="270px" width="50%" />
 
 ```yaml
-education:
+Education:
   {
     "Diploma, Highschool",
     "Degree, Web Development",
   }
 
-fields_of_interests:
+Hobbies:
   {
     "Web Development",
     "Application Development",
