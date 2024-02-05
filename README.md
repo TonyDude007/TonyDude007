@@ -1,3 +1,1 @@
-<img src="pic.png" />
-
-<h1 align="center"> Welcome To my Page 👋</h1>
+<h1 align="center"> <img src="pic.png" /> Welcome To my Page 👋</h1>
