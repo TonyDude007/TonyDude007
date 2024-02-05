@@ -1,6 +1,6 @@
-<h1 align="center"> Welcome To my Page 👋</h1>
+<h1 align="center"> 👋 Welcome To my Page 👋</h1>
 
-<h2 align="center"> About Me 🙋‍♂️ </h2>
+<h2 align="center"> 🙋‍♂️ About Me 🙋‍♂️ </h2>
 
 <img align="left" src="Style/Gif/giphy.webp" alt="duck Animation" height="270px" width="50%" />
 
@@ -21,7 +21,7 @@ Hobbies:
   }
 ```
 
-<h3 align="center"> My Knowledge Library 📚 </h3>
+<h3 align="center"> 📚 My Knowledge Library 📚 </h3>
 
 <p align="center">
     <!-- Programing languages -->
