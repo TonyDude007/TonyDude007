@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome To my Page 👋</h1>
 
-<h2> About Me </h2>
+<h2 align="center"> About Me </h2>
 
 <img align="left" src="giphy.webp" alt="duck Animation" height="200px" width="50%" />
 
