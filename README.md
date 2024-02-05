@@ -21,7 +21,7 @@ Hobbies:
   }
 ```
 
-<h3 align="center"> My Knowledge Library </h3>
+<h3 align="center"> My Knowledge Library 📚 </h3>
 
 <p align="center">
     <!-- Programing languages -->
