@@ -23,7 +23,7 @@ fields_of_interests:
 
 <h3 align="center"> My Knowledge Library </h3>
 
-<p align="center">
+<p align="center" width="50%">
     <!-- Programing languages -->
     <img src="Style/Pictures/C++.png" alt="C++ logo" width="45" height="45" border-radius: 30px/>
     <img src="Style/Pictures/CSharp.png" alt="C# logo" width="45" height="45" border-radius: 30px/>
