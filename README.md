@@ -1,8 +1,10 @@
-<h1 align="center"> 👋 Welcome To my Page 👋</h1>
+<h1 align="center">  </h1>
 
-<h2 align="center"> 🙋‍♂️ About Me 🙋‍♂️ </h2>
+<h1 align="center"> 🙋‍♂️ About Me 🙋‍♂️ </h2>
 
-<img align="center" src="Style/Gif/giphy.webp" alt="duck Animation" height="270px"/>
+<div align="center">
+  <img src="Style/Gif/giphy.webp" alt="duck Animation" width="50%"/>
+</div>
 
 ```yaml
 Education:
