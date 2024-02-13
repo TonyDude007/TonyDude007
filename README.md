@@ -3,7 +3,7 @@
 <h1 align="center"> 🙋‍♂️ About Me 🙋‍♂️ </h2>
 
 <div align="center">
-  <img src="Style/Gif/giphy.webp" alt="duck Animation" width="50%"/>
+  <img src="Style/Gif/giphy.webp" alt="duck Animation" width="70%"/>
 </div>
 
 ```yaml
